@@ -16,7 +16,7 @@ const nav = ["Home", "About", "Skills", "Projects", "Training", "Certificates", 
 const skills: [string, string[]][] = [
   ["Languages", ["Python", "C", "C++", "JavaScript"]],
   ["Technologies", ["HTML", "CSS", "Bootstrap"]],
-  ["Databases / Tools", ["MySQL", "Git", "GitHub"]],
+  ["Databases / Tools", ["MySQL", "Git", "GitHub", "Nmap", "Wireshark", "Gobuster", "Hydra", "Burp Suite"]],
   ["Cybersecurity", ["Networking Fundamentals", "Linux", "Log Analysis", "Security Monitoring", "Web Application Security"]],
   ["Soft Skills", ["Problem Solving", "Adaptability", "Time Management", "Communication", "Planning", "Leadership"]]
 ];
